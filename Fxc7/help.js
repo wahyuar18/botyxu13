@@ -5,7 +5,7 @@ const help = (prefix, instagram, yt, name, pushname2, user, limitt, uptime, jam,
 ├ ◩  \`\`\`NAMA USER:\`\`\` *${pushname2}*
 ├ ◩  \`\`\`LIMIT:\`\`\` *${limitt} perhari*
 ├ ◩  \`\`\`AKTIF:\`\`\` ${kyun(uptime)}
-├ ◩  \`\`\`JAM:\`\`\` *${jam} WIB*
+
 ├ ◩  \`\`\`DATE:\`\`\` *${tanggal}*
 ├ ◩  \`\`\`USER REGISTER:\`\`\` *${user.length} User*
 ╰────────────────────
